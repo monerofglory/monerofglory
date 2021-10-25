@@ -8,7 +8,7 @@ I'm currently looking for opportunities as a backend software developer using th
 
 # Contributions
 
-As of 21/10/2021 I have been contibuting to an open-source project, Path of Building:
+As of 21/10/2021 I have been contibuting to an open-source project, [Path of Building](https://github.com/PathOfBuildingCommunity/PathOfBuilding), helping to update the build planner for the latest features added in Path of Exile 3.16 (Scourge).
 
 # Academic papers
 
